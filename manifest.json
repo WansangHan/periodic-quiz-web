@@ -1,0 +1,16 @@
+{
+  "name": "원소 학습",
+  "short_name": "원소",
+  "description": "간격반복 기반 원소기호·주기율표 학습",
+  "start_url": "/periodic-quiz-web/",
+  "scope": "/periodic-quiz-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0891B2",
+  "background_color": "#0891B2",
+  "lang": "ko",
+  "icons": [
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
